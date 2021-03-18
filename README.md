@@ -6,7 +6,7 @@ Model was trained on CelebA dataset. It can be found in Torchvision (or via link
 
 Main file with is train/test loops in a notebook(main.ipynb). It also contains config so that all hyperparameters can be found there.
 
-WandB loffing and report can be found on their web-page ([report](https://wandb.ai/kirili4ik/dgm-ht2/reports/-2-DGM-StarGan---Vmlldzo1MjE1NTk), [logging](https://wandb.ai/kirili4ik/dgm-ht2?workspace=user-kirili4ik)) (in Russian).
+WandB loffing and report can be found on their web-page ([report](https://wandb.ai/kirili4ik/dgm-ht2/reports/-2-DGM-StarGan---Vmlldzo1MjE1NTk), [logging](https://wandb.ai/kirili4ik/dgm-ht2?workspace=user-kirili4ik)). There are a lot of good and bad samples and graphs! (in Russian).
 
 There are some good examples of trained models:
 ![alt text](https://github.com/Kirili4ik/StarGAN/blob/main/samples_base.png "samples")
